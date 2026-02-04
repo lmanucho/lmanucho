@@ -15,26 +15,17 @@
 - 🎓 Soy estudiante de **Ingeniería en Sistemas**.
 - 💻 Actualmente sé programar en **Python, C# y HTML**.
 - 📚 Estoy profundizando mis conocimientos en **Java y SQL**.
-- 🛠️ Uso herramientas como **Visual Studio, IntelliJ IDEA y Enterprise Architect**.
+- 🛠️ Uso herramientas como **Visual Studio, IntelliJ IDEA, Enterprise Architect y Ubuntu**.
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Lenguajes
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,html,java,mysql,visualstudio,vscode,idea,ubuntu,github" />
+  </a>
+</div>
 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🔧 Herramientas y Entorno
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Enterprise Architect](https://img.shields.io/badge/Enterprise_Architect-0d2c4a?style=for-the-badge&logo=uml&logoColor=white)
+<br>
 
 ## 📊 Estadísticas del Perfil
 
