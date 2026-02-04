@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hola, soy Manuel !!👋
+  Hola, soy Manuel !!
 </h3>
 
 <p align="center">
