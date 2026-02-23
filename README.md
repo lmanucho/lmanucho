@@ -13,9 +13,6 @@
 ---
 
 - 🎓 Soy estudiante de **Ingeniería en Sistemas**.
-- 💻 Actualmente sé programar en **Python, C# y HTML**.
-- 📚 Estoy profundizando mis conocimientos en **Java y SQL**.
-- 🛠️ Uso herramientas como **Visual Studio, IntelliJ IDEA, Enterprise Architect y Ubuntu**.
 
 ## 🛠 &nbsp;Tech Stack
 
